@@ -78,7 +78,7 @@ Through academic and personal projects I've worked with REST APIs, database desi
 
 | Project | Description | Tech |
 |---|---|---|
-| **Cognova AI** *(Individual)* | AI-powered study assistant. *Notes In. Knowledge Out.* | Django, React, Tailwind CSS, RAG, pgvector, PostgreSQL, Gemini API, OAuth 2.0 |
+| **Cognova AI** *(Individual,Deployed)* | AI-powered study assistant. *Notes In. Knowledge Out.* | Django, React, Tailwind CSS, RAG, pgvector, PostgreSQL, Gemini API, OAuth 2.0, Render |
 | **WardrobeIQ** *(Individual, 2026, in progress)* | AI-powered personal styling mobile platform | ASP.NET Core, Flutter, MongoDB, Google Gemini API, JWT, Postman, xUnit, Moq, Mocktail, Render |
 | **Smart Journey Planner** *(Group, 2025-2026)* | Collaborative trip planning and managing platform (2nd year software project) | ASP.NET Core, Angular, MongoDB, Google APIs, SignalR, Postman, REST Client, Jasmine, xUnit |
 | **Ticket Resale Website** *(Group, 2025)* | Ticket resale web app (1st year, 2nd semester web development module project) | HTML, CSS, JavaScript, Node.js, MongoDB |
